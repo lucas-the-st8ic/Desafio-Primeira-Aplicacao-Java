@@ -5,7 +5,7 @@ void main() {
     //Variáveis
     String nomeCliente = "Lucas Silva";
     String tipoDeConta = "Corrente";
-    double saldoInicial = 1599.99;
+    double saldoInicial = 3000.00;
     double recebimento = 0;
     double transferencia = 0;
     int opcao = 0;
